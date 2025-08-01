@@ -1,7 +1,6 @@
 # System Identification and PID Control Design
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange)](https://www.mathworks.com/products/matlab.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![University](https://img.shields.io/badge/University-Moratuwa-blue)](https://www.mrt.ac.lk/)
 
 ## Overview
